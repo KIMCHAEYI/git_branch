@@ -1,0 +1,6 @@
+funtion b(){
+
+}
+funtion a(main){
+
+}
